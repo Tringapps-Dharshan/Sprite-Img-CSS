@@ -21,3 +21,6 @@ header{
     height: 38px;
     background: url(spriteimg.png) -110px 10px;
 }
+#current{
+    text-align: center;
+}
