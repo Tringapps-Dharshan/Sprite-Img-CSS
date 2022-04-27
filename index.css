@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+}
+#icons{
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+#fb{
+    width: 50px;
+    height: 38px;
+    background: url(spriteimg.png) 5px 10px;
+}
+#yt{
+    width: 50px;
+    height: 35px;
+    background: url(spriteimg.png) 45px 10px;
+}
+#gp{
+    width: 50px;
+    height: 40px;
+    background: url(spriteimg.png) -110px 10px;
+}
